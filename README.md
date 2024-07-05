@@ -1,6 +1,16 @@
 # Description
 
 Base project to practice some programming foundations using TypeScript and Babylon.js 3D visuals. Based on https://github.com/RaananW/babylonjs-webpack-es6
+<br>
+<br>
+
+Apercu du travail réalisé : 
+<br>
+![Capture d'écran 2024-07-05 222156](https://github.com/JonathanG-coder/Divers.Ex.babylon.js/assets/159537523/08d03cb0-4201-4a09-af8e-bf8078b449d6)
+<br>
+![Capture d'écran 2024-07-05 222156](https://github.com/JonathanG-coder/Divers.Ex.babylon.js/assets/159537523/74f494c7-9df7-4c66-a277-e96d5fa16361)
+
+
 
 # Babylon.js, webpack and es6 modules
 
