@@ -6,6 +6,7 @@ Base project to practice some programming foundations using TypeScript and Babyl
 
 Apercu du travail réalisé : 
 <br>
+
 ![Capture d'écran 2024-07-05 222521](https://github.com/JonathanG-coder/Divers.Ex.babylon.js/assets/159537523/ba23407a-6a32-41fb-963e-81b4e82fc889)
 
 <br>
